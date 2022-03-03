@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="Big5" ?>
+<records>
+	<student id="101" name="Clever"/>
+	<student id="102" name="John"/>
+	<student id="103" name="James"/>
+	<teacher id="111" name="Jude"/>
+	<teacher id="112" name="Martin"/>
+</records>
